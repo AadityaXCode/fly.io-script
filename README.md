@@ -26,5 +26,5 @@ Git clone this repo from GitHub or just copy and paste <br>
 Then run: <br>
 `nano app.py` <br> edit the App.py and paste the repo which you want to deploy. <br><br>
 then do: <br> `cd fly.io-script` <br><br>
-Now, Launch the `fly.io-script` into <a href="https://fly.io"> Fly.io </a> server using `flyctl launch`<br> 
+Now, Launch the `fly.io-script` into <a href="https://fly.io"> Fly.io </a> server using <br> `flyctl launch`<br> 
 <b>(it will ask for overwriting the Procfile, just type `n` there) </b>
