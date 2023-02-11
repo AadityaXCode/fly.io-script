@@ -39,4 +39,7 @@ Tip: paste this on any text editor and add the vars then paste it on your termin
 <i><b>Note:</i></b> Make Sure To Add <br>`FLASK_APP=Your App Name'` <br> in vars Or Your Bot Won't Run.<br>
 You can find app name in `fly.toml` or on `fly.io/dashboard`<br><br>
 Now scale the memory of your app also using<br>`flyctl scale memory 2048`<br><br>
-
+# Deploying The App
+type<br>`flyctl deploy`<br>and wait few minutes until it deploy successfully…<br><br>
+Wait for 5-6 Minutes Until it deployed on `fly.io`<br><br>
+Meanwhile Logs can be also view from <br>`fly.io/dashboard`<br> or type<br>`flyctl logs`<br>on terminal.
