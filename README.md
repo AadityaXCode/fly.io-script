@@ -33,8 +33,8 @@ Now it will ask for Name of the application and server of application<br><br>
 Now it will ask for setting up Postgresql & Redis for our app, type `n` for both or your account will be charged.<br><br>
 # Adding Secrets and editing fly.toml
 add secrets (variables) for your app using<br> `flyctl secrets set VAR_NAME=’value’` <br><br>
-Add the below method to bulk set the secrets using single command <br>
-Tip: paste this on any text editor and add the vars then paste it on your terminal.<br><br>
+Add the below method to bulk set the secrets using single command <br><br>
+<b>Tip: paste this on any text editor and add the vars then paste it on your terminal.</b><br><br>
 `flyctl secrets set \ VAR_NAME='VALUE' \ VAR_NAME='VALUE'` <br><br>
 <i><b>Note:</i></b> Make Sure To Add <br>`FLASK_APP=Your App Name'` <br> in vars Or Your Bot Won't Run.<br>
 You can find app name in `fly.toml` or on `fly.io/dashboard`<br><br>
@@ -42,4 +42,7 @@ Now scale the memory of your app also using<br>`flyctl scale memory 2048`<br><br
 # Deploying The App
 type<br>`flyctl deploy`<br>and wait few minutes until it deploy successfully…<br><br>
 Wait for 5-6 Minutes Until it deployed on `fly.io`<br><br>
-Meanwhile Logs can be also view from <br>`fly.io/dashboard`<br> or type<br>`flyctl logs`<br>on terminal.
+Meanwhile Logs can be also view from <br>`fly.io/dashboard`<br> or type<br>`flyctl logs`<br>on terminal.<br><br>
+# Bot Deployed ✨
+»» Facing Problems?<br>
+»» My Telegram Account:<a href="https://telegram.dog/Was_Aditya>𓆩Λ∂ιтуα𓆪 ⚡ [🇮🇳]</a>
