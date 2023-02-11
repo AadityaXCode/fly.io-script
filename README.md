@@ -10,5 +10,9 @@ Read this guide to deploy bot on fly.io
 first of all, create an account on Fly and add credit card on billing section 
 <b>(you won't be charged until upgrading your plan to Launch Plan) </b>
 
-# Now install its CLI on your Operating System
-```test```
+# Now install its CLI on your Operating System (Termux)
+»Android (Termux)<br>
+first do:<br>
+`pkg install root-repo` <br>
+then run the below command <br>
+`pkg install flyctl`
