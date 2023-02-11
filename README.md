@@ -18,4 +18,10 @@ then run the below command <br>
 `pkg install flyctl`
 
 # Authenticating Terminal with Fly
-run: <br>`flyctl auth login` <br>it will redirect to login page, login with Your Fly.io Account. 
+run: <br>`flyctl auth login` <br>it will redirect to login page, login with Your Fly.io Account.
+
+# Clone and Launch any Bot/UserBot in terminal
+Git clone this repo from GitHub or just copy and paste <br>
+`git clone https://github.com/itzrexmodz/fly.io-script`
+Then run: <br>
+`nano app.py` <br> edit the App.py and paste the repo which you want to deploy.
