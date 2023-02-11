@@ -12,7 +12,7 @@ first of all, create an account on Fly and add credit card on billing section
 
 # Now install its CLI on your Operating System (Termux)
 »Android (Termux)<br>
-first do:<br>
+<b>first do:</b><br>
 `pkg install root-repo` <br>
 then run the below command <br>
 `pkg install flyctl`
