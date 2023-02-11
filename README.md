@@ -28,5 +28,5 @@ Then run: <br>
 then do: <br> `cd fly.io-script` <br><br>
 Now, Launch the `fly.io-script` into <a href="https://fly.io"> Fly.io </a> server using <br> `flyctl launch`<br> 
 <b>(it will ask for overwriting the Procfile, just type `n` there) </b><br><br>
-Now it will ask for Name of the application and server of application<br>
+Now it will ask for Name of the application and server of application<br><br>
 <b>Tip: choose Miami (mia) server for good ping and fast response</b><br><br>
