@@ -16,3 +16,6 @@ first do:<br>
 `pkg install root-repo` <br>
 then run the below command <br>
 `pkg install flyctl`
+
+# Authenticating Terminal with Fly
+run `flyctl auth login` <br>it will redirect to login page, login with Your Fly.io Account. 
