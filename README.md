@@ -8,4 +8,4 @@ Read this guide to deploy bot on fly.io
 
 # Creating Account and adding Credit Card on Fly
 first of all, create an account on Fly and add credit card on billing section 
-(you won't be charged until upgrading your plan to Launch Plan)
+<b>(you won't be charged until upgrading your plan to Launch Plan) </b>
