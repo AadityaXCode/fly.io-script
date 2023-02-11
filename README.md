@@ -45,4 +45,4 @@ Wait for 5-6 Minutes Until it deployed on `fly.io`<br><br>
 Meanwhile Logs can be also view from <br>`fly.io/dashboard`<br> or type<br>`flyctl logs`<br>on terminal.<br><br>
 # Bot Deployed ✨
 »» Facing Problems?<br>
-»» My Telegram Account:<a href="https://telegram.dog/Was_Aditya>𓆩Λ∂ιтуα𓆪 ⚡ [🇮🇳]</a>
+»» My Telegram Account:<a href="https://telegram.dog/Was_Aditya">𓆩Λ∂ιтуα𓆪 ⚡ [🇮🇳]</a>
