@@ -36,5 +36,5 @@ add secrets (variables) for your app using<br> `flyctl secrets set VAR_NAME=’v
 Add the below method to bulk set the secrets using single command <br>
 Tip: paste this on any text editor and add the vars then paste it on your terminal.<br><br>
 `flyctl secrets set \ VAR_NAME='VALUE' \ VAR_NAME='VALUE' <br>
-<i><b>Note: Make Sure To Add <br>`FLASK_NAME=Your App Name' <br> in vars Or Your Bot Won't Run.<br>
+<i><b>Note: Make Sure To Add <br>`FLASK_NAME=Your App Name' <br> in vars Or Your Bot Won't Run.<br></b></i>
 You can find app name in `fly.toml` or on `fly.io/dashboard`
