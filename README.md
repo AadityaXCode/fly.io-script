@@ -35,6 +35,6 @@ Now it will ask for setting up Postgresql & Redis for our app, type `n` for both
 add secrets (variables) for your app using<br> `flyctl secrets set VAR_NAME=’value’` <br><br>
 Add the below method to bulk set the secrets using single command <br>
 Tip: paste this on any text editor and add the vars then paste it on your terminal.<br><br>
-`flyctl secrets set \ VAR_NAME='VALUE' \ VAR_NAME='VALUE' <br><br>
-Note: Make Sure To Add <br>`FLASK_NAME=Your App Name' <br> in vars Or Your Bot Won't Run.<br>
+`flyctl secrets set \ VAR_NAME='VALUE' \ VAR_NAME='VALUE'` <br><br>
+<i><b>Note:</i></b> Make Sure To Add <br>`FLASK_NAME=Your App Name' <br> in vars Or Your Bot Won't Run.<br>
 You can find app name in `fly.toml` or on `fly.io/dashboard`
