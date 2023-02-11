@@ -11,4 +11,3 @@ first of all, create an account on Fly and add credit card on billing section
 <b>(you won't be charged until upgrading your plan to Launch Plan) </b>
 
 # Now install its CLI on your Operating System
-`test`
