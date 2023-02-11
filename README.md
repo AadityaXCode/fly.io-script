@@ -30,4 +30,4 @@ Now, Launch the `fly.io-script` into <a href="https://fly.io"> Fly.io </a> serve
 <b>(it will ask for overwriting the Procfile, just type `n` there) </b><br><br>
 Now it will ask for Name of the application and server of application<br><br>
 <b>Tip: choose Miami (mia) server for good ping and fast response</b><br><br>
-Now it will ask for setting up Postgresql & Redis for our app, type `n` for both or your account will be charged Accordingly.<br><br>
+Now it will ask for setting up Postgresql & Redis for our app, type `n` for both or your account will be charged.<br><br>
