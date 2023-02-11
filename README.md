@@ -37,7 +37,6 @@ Add the below method to bulk set the secrets using single command <br>
 Tip: paste this on any text editor and add the vars then paste it on your terminal.<br><br>
 `flyctl secrets set \ VAR_NAME='VALUE' \ VAR_NAME='VALUE'` <br><br>
 <i><b>Note:</i></b> Make Sure To Add <br>`FLASK_APP=Your App Name'` <br> in vars Or Your Bot Won't Run.<br>
-You can find app name in `fly.toml` or on `fly.io/dashboard`<br>
-# Heroku BuildPacks
-<b>If Your Bot/Userbot Needs Heroku BuildPacks To run.</b><br>
-edit the `fly.toml` using `nano` or any text editor file and replace<br> `paketobuildpacks/builder:base` with `heroku/buildpacks` in builder variable 
+You can find app name in `fly.toml` or on `fly.io/dashboard`<br><br>
+Now scale the memory of your app also using<br>`flyctl scale memory 2048`<br><br>
+
