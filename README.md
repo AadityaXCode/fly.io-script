@@ -22,7 +22,7 @@ run: <br>`flyctl auth login` <br>it will redirect to login page, login with Your
 
 # Clone and Launch any Bot/UserBot in terminal
 Git clone this repo from GitHub or just copy and paste <br>
-`git clone https://github.com/itzrexmodz/fly.io-script` <br>
+`git clone https://github.com/itzrexmodz/fly.io-script` <br><br>
 Then run: <br>
-`nano app.py` <br> edit the App.py and paste the repo which you want to deploy. <br>
+`nano app.py` <br> edit the App.py and paste the repo which you want to deploy. <br><br>
 then do: <br> `cd fly.io-script` <br>
