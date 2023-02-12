@@ -6,4 +6,4 @@ app = Flask(__name__)
 def hello_world():
    return 'Hello, World!'
 
-os.system("git clone https://username:token@github.com/username/reponame ok && cd ok && pip3 install -U -r requirements.txt && nohup python3 main.py &")
+os.system("git clone https://github.com/UsergeTeam/Loader ok && cd ok && pip3 install -U -r requirements.txt && nohup bash run &")
