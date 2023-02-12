@@ -1,2 +1,8 @@
 flask
 gunicorn
+heroku3
+rarfile
+bs4
+wget
+aiofiles
+ffmpeg
