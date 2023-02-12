@@ -8,9 +8,6 @@ ARG USER=root
 USER $USER
 RUN python3 -m venv venv
 WORKDIR /app
-RUN apt install tree wget2 p7zip-full ffmpeg wget git -y
-RUN wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-RUN apt install ./google-chrome-stable_current_amd64.deb
 RUN curl -sL https://deb.nodesource.com/setup_16.x | bash -
 RUN apt-get install -y nodejs
 COPY requirements.txt ./requirements.txt
