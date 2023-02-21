@@ -1,2 +1,4 @@
 flask
 gunicorn
+python-dotenv
+python-decouple
